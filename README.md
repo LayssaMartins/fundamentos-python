@@ -5,7 +5,7 @@ São exercícios bem básicos, feitos no começo da minha jornada na programaç�
 
 ---
 
-## ✨ Sobre este repositório
+## ✨ Sobre este Repositório
 
 - 📚 Exercícios simples de Python (if/else, laços, listas, tuplas, dicionários, funções etc.)
 - 🧠 Conteúdo voltado para **aprendizado inicial**
